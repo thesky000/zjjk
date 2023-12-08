@@ -3,7 +3,7 @@
 
  "spider":"./lxhfans1.jar",
   "wallpaper":"https://api.likepoems.com/img/bing",
-  "warningText":"公众号：乐享汇fans免费分享持续更新，更多详情见公众号文章",
+  "warningText":" ",
   "lives": [
     {
       "name": "直播",
@@ -21,7 +21,7 @@
 "sites":[
     {
      "key":"DB",
-     "name":"🌎豆瓣|公众号：乐享汇fans免费分享持续更新，更多详情见公众号文章",
+     "name":"🌎豆瓣🌎",
      "type":3,
      "api":"./lib/drpy.min.js","ext":"./lib/豆瓣.js"
     },
